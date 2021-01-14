@@ -8,7 +8,7 @@ Though I've thoroughly enjoyed the process of learning and building out projects
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log/)
+* [Log - click here to see my progress](logs/)
 
 
 
